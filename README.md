@@ -5,7 +5,7 @@
 > Built in public, on my own time.
 
 **Shipped — in market**
-- 📱 **[gunafood](https://gtm-k.github.io/gunafood)** — Ayurvedic food-wisdom app: 433 foods classified as Sattvic, Rajasic, or Tamasic via the Guna framework, with citations and timing guidance. iOS & Android. *(closed source)*
+- 📱 **gunafood** — Ayurvedic food-wisdom app: 433 foods classified Sattvic / Rajasic / Tamasic via the Guna framework. Live on [App Store](https://apps.apple.com/us/app/gunafood/id6761399298) & [Google Play](https://play.google.com/store/apps/details?id=com.gunafood.gunafood). *(closed source)*
 
 **Built — open**
 - 🧠 **[product-skill](https://github.com/gtm-k/product-skill)** ⭐ — 30+ PM frameworks as an AI skill. Product judgment, on tap. *(8.9/10 across blind scenario tests)*

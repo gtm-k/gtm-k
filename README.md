@@ -10,7 +10,7 @@
 **Built — open**
 - 🧠 **[product-skill](https://github.com/gtm-k/product-skill)** ⭐ — 30+ PM frameworks as an AI skill: role-calibrated APM→CPO advice, confidence calibration, built-in blind-spot checks. One paste into ChatGPT, Claude, or Gemini. *Product judgment, on tap.* · [Live visual guide ↗](https://gtm-k.github.io/product-skill/)
 - 📊 **[fintree](https://github.com/gtm-k/fintree)** — A 234-node, XBRL-mapped US GAAP P&L ontology for FP&A teams and AI agents. · [P&L explorer ↗](https://gtm-k.github.io/fintree/)
-- ⚛️ **[quantum-fusion-poc](https://github.com/gtm-k/quantum-fusion-poc)** — VQE on tungsten–hydrogen binding, validated on real IBM Quantum hardware. A frontier proof-of-concept — including what doesn't work yet.
+- ⚛️ **[quantum-fusion-poc](https://github.com/gtm-k/quantum-fusion-poc)** — VQE on tungsten–hydrogen binding, validated on real IBM Quantum hardware. A frontier proof-of-concept — including what doesn't work yet. · [Results write-up ↗](https://gtm-k.github.io/quantum-fusion-poc/)
 - 🛠 **[skill-forge](https://github.com/gtm-k/skill-forge)** — local-first skill runtime + visual manager for local & open LLMs. Sources [agentskills.io](https://agentskills.io) skills and fires the right one at runtime into LM Studio, MCP hosts, and any OpenAI-compatible proxy. *MVP shipped · 343 tests · Apache-2.0.*
 
 **In progress**

@@ -10,6 +10,7 @@
 **Built — open**
 - 🧠 **[product-skill](https://github.com/gtm-k/product-skill)** ⭐ — 30+ PM frameworks as an AI skill: role-calibrated APM→CPO advice, confidence calibration, built-in blind-spot checks. One paste into ChatGPT, Claude, or Gemini. *Product judgment, on tap.* · [Live visual guide ↗](https://gtm-k.github.io/product-skill/)
 - 🏗 **[eigenorg](https://github.com/gtm-k/eigenorg)** — Test whether an org holds together *before* you build it: 500 Monte Carlo simulations in your browser (Rust → WebAssembly) showing how structure, not headcount, decides the outcome — with the whole model open and adjustable. *Structure, not headcount.* · [Try it live ↗](https://gtm-k.github.io/eigenorg/)
+- 🧭 **[business-model-almanac](https://github.com/gtm-k/business-model-almanac)** — Every process that runs a business, mapped to the software that runs it: the APQC PCF v7.4 (13 categories · 72 process groups) → 257 ranked vendors, a dated 2026 edition you steer like an astrolabe. *The software landscape, charted.* · [Open the atlas ↗](https://gtm-k.github.io/business-model-almanac/)
 - 🛒 **[discern](https://github.com/gtm-k/discern)** — an agentic-commerce shopping skill that runs a disciplined buying method: affiliate/SEO echo collapses to one signal, a teardown weighs fundamentals, and a value-over-price gate applies last. Emits a Recommendation Object with provenance, per-claim confidence, and counterevidence — or an honest *"not enough evidence."* Portable Node core + Go TUI viewer. *v0.2.0 · MIT.* · [Method walkthrough ↗](https://gtm-k.github.io/discern/)
 - 📊 **[fintree](https://github.com/gtm-k/fintree)** — A 234-node, XBRL-mapped US GAAP P&L ontology for FP&A teams and AI agents. · [P&L explorer ↗](https://gtm-k.github.io/fintree/)
 - ⚛️ **[quantum-fusion-poc](https://github.com/gtm-k/quantum-fusion-poc)** — VQE on tungsten–hydrogen binding, validated on real IBM Quantum hardware. A frontier proof-of-concept — including what doesn't work yet. · [Results write-up ↗](https://gtm-k.github.io/quantum-fusion-poc/)
@@ -19,7 +20,7 @@
 - 🗂 **[foldermcp](https://github.com/gtm-k/foldermcp)** — folders → secure MCP tool servers (Go). *Evolving — next version in the works.*
 - 🏛 **[strategy-council](https://github.com/gtm-k/strategy-council)** — an experiment in multi-agent strategic reasoning. *Research, not production.*
 
-**Now** — just shipped `eigenorg`, an in-browser org-structure simulator; next, the new `foldermcp`.
+**Now** — just shipped `business-model-almanac`, a navigable atlas of the enterprise-software landscape; next, the new `foldermcp`.
 
 ---
 

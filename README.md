@@ -1,29 +1,21 @@
-### gtm-k — Gowtham Kethineedi
+<img src="assets/lab-header.png" alt="Gowtham Kethineedi — a personal lab. Execution keeps getting cheaper. Judgment doesn't." width="100%">
 
-> Execution keeps getting cheaper. Judgment doesn't.
-> So I productize the judgment — PM, strategy, finance — and run experiments at the frontier.
-> Built in public, on my own time.
+<sub><img src="assets/dot-in-market.svg" alt=""> live in market&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-open.svg" alt=""> open&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-wip.svg" alt=""> wip</sub>
 
-**Shipped — in market**
-- 📱 **gunafood** — Ayurvedic food-wisdom app: 433 foods classified Sattvic / Rajasic / Tamasic via the Guna framework. Live on [App Store](https://apps.apple.com/us/app/gunafood/id6761399298) & [Google Play](https://play.google.com/store/apps/details?id=com.gunafood.gunafood). *(closed source)*
+| S | INSTRUMENT | WHAT IT DOES | GUIDE |
+|:---:|:---|:---|:---|
+| <img src="assets/dot-in-market.svg" alt="in market" title="in market"> | **[gunafood](https://apps.apple.com/us/app/gunafood/id6761399298)** | Ayurvedic food wisdom — 433 foods, live on iOS & Android | [↗ App Store](https://apps.apple.com/us/app/gunafood/id6761399298) · [Play](https://play.google.com/store/apps/details?id=com.gunafood.gunafood) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[product-skill](https://github.com/gtm-k/product-skill)** | 30+ PM frameworks as an AI skill — judgment, on tap | [↗ field guide](https://gtm-k.github.io/product-skill/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[eigenorg](https://github.com/gtm-k/eigenorg)** | Stress-test an org before you build it — 500 Monte Carlo runs in-browser | [↗ simulator](https://gtm-k.github.io/eigenorg/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[business-model-almanac](https://github.com/gtm-k/business-model-almanac)** | Every business process → the software that runs it | [↗ atlas](https://gtm-k.github.io/business-model-almanac/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[discern](https://github.com/gtm-k/discern)** | A disciplined buying method an AI agent can run | [↗ walkthrough](https://gtm-k.github.io/discern/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[fintree](https://github.com/gtm-k/fintree)** | 234-node, XBRL-mapped US GAAP P&L ontology | [↗ explorer](https://gtm-k.github.io/fintree/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[quantum-fusion-poc](https://github.com/gtm-k/quantum-fusion-poc)** | VQE on real IBM quantum hardware — including what doesn't work yet | [↗ results](https://gtm-k.github.io/quantum-fusion-poc/) |
+| <img src="assets/dot-open.svg" alt="open" title="open"> | **[skill-forge](https://github.com/gtm-k/skill-forge)** | Local-first skill runtime for open LLMs | [↗ repo](https://github.com/gtm-k/skill-forge) |
+| <img src="assets/dot-wip.svg" alt="wip" title="wip"> | **[foldermcp](https://github.com/gtm-k/foldermcp)** | Folders → secure MCP tool servers | — |
+| <img src="assets/dot-wip.svg" alt="wip" title="wip"> | **[strategy-council](https://github.com/gtm-k/strategy-council)** | Multi-agent strategic reasoning — research | — |
 
-**Built — open**
-- 🧠 **[product-skill](https://github.com/gtm-k/product-skill)** ⭐ — 30+ PM frameworks as an AI skill: role-calibrated APM→CPO advice, confidence calibration, built-in blind-spot checks. One paste into ChatGPT, Claude, or Gemini. *Product judgment, on tap.* · [Live visual guide ↗](https://gtm-k.github.io/product-skill/)
-- 🏗 **[eigenorg](https://github.com/gtm-k/eigenorg)** — Test whether an org holds together *before* you build it: 500 Monte Carlo simulations in your browser (Rust → WebAssembly) showing how structure, not headcount, decides the outcome — with the whole model open and adjustable. *Structure, not headcount.* · [Try it live ↗](https://gtm-k.github.io/eigenorg/)
-- 🧭 **[business-model-almanac](https://github.com/gtm-k/business-model-almanac)** — Every process that runs a business, mapped to the software that runs it: the APQC PCF v7.4 (13 categories · 72 process groups) → 257 ranked vendors, a dated 2026 edition you steer like an astrolabe. *The software landscape, charted.* · [Open the atlas ↗](https://gtm-k.github.io/business-model-almanac/)
-- 🛒 **[discern](https://github.com/gtm-k/discern)** — an agentic-commerce shopping skill that runs a disciplined buying method: affiliate/SEO echo collapses to one signal, a teardown weighs fundamentals, and a value-over-price gate applies last. Emits a Recommendation Object with provenance, per-claim confidence, and counterevidence — or an honest *"not enough evidence."* Portable Node core + Go TUI viewer. *v0.2.0 · MIT.* · [Method walkthrough ↗](https://gtm-k.github.io/discern/)
-- 📊 **[fintree](https://github.com/gtm-k/fintree)** — A 234-node, XBRL-mapped US GAAP P&L ontology for FP&A teams and AI agents. · [P&L explorer ↗](https://gtm-k.github.io/fintree/)
-- ⚛️ **[quantum-fusion-poc](https://github.com/gtm-k/quantum-fusion-poc)** — VQE on tungsten–hydrogen binding, validated on real IBM Quantum hardware. A frontier proof-of-concept — including what doesn't work yet. · [Results write-up ↗](https://gtm-k.github.io/quantum-fusion-poc/)
-- 🛠 **[skill-forge](https://github.com/gtm-k/skill-forge)** — local-first skill runtime + visual manager for local & open LLMs. Sources [agentskills.io](https://agentskills.io) skills and fires the right one at runtime into LM Studio, MCP hosts, and any OpenAI-compatible proxy. *MVP shipped · 343 tests · Apache-2.0.*
+> **Field notes** — just shipped [business-model-almanac](https://github.com/gtm-k/business-model-almanac); next, the new [foldermcp](https://github.com/gtm-k/foldermcp).
 
-**In progress**
-- 🗂 **[foldermcp](https://github.com/gtm-k/foldermcp)** — folders → secure MCP tool servers (Go). *Evolving — next version in the works.*
-- 🏛 **[strategy-council](https://github.com/gtm-k/strategy-council)** — an experiment in multi-agent strategic reasoning. *Research, not production.*
+<sub>Personal projects, built on my own time. Views my own. · [gowthamkethineedi.com](https://www.gowthamkethineedi.com) · [LinkedIn](https://www.linkedin.com/in/gowthamkethineedi)</sub>
 
-**Now** — just shipped `business-model-almanac`, a navigable atlas of the enterprise-software landscape; next, the new `foldermcp`.
-
----
-
-Product leader · 10+ yrs · [gowthamkethineedi.com](https://www.gowthamkethineedi.com) · [LinkedIn](https://www.linkedin.com/in/gowthamkethineedi)
-
-<sub>Personal projects, built on my own time. Views my own.</sub>

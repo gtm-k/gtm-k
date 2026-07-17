@@ -1,6 +1,6 @@
-<img src="assets/lab-header.png" alt="Gowtham Kethineedi — a personal lab. Execution keeps getting cheaper. Judgment doesn't." width="100%">
+<img src="assets/lab-header.svg" alt="Gowtham Kethineedi, product leader — a personal lab. Instruments — frameworks, simulators, ontologies. Built in public, on my own time." width="100%">
 
-<sub><img src="assets/dot-in-market.svg" alt=""> live in market&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-open.svg" alt=""> open&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-wip.svg" alt=""> wip</sub>
+<img src="assets/dot-in-market.svg" alt=""> live in market&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-open.svg" alt=""> open&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-wip.svg" alt=""> wip
 
 | S | INSTRUMENT | WHAT IT DOES | GUIDE |
 |:---:|:---|:---|:---|

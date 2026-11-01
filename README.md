@@ -1,11 +1,10 @@
 <img src="assets/lab-header.svg" alt="Gowtham Kethineedi, product leader — a personal lab. Instruments — frameworks, simulators, ontologies. Built in public, on my own time." width="100%">
 
-<img src="assets/dot-in-market.svg" alt=""> live in market&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-open.svg" alt=""> open&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-wip.svg" alt=""> wip
+<img src="assets/dot-in-market.svg" alt=""> live in market&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-open.svg" alt=""> open&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-wip.svg" alt=""> wip&nbsp;&nbsp;·&nbsp;&nbsp;<img src="assets/dot-deprecated.svg" alt=""> deprecated
 
 | S | INSTRUMENT | WHAT IT DOES | GUIDE |
 |:---:|:---|:---|:---|
 | <img src="assets/dot-in-market.svg" alt="in market" title="in market"> | **[gunafood](https://apps.apple.com/us/app/gunafood/id6761399298)** | Ayurvedic food wisdom — 433 foods, live on iOS & Android | [↗ App Store](https://apps.apple.com/us/app/gunafood/id6761399298) · [Play](https://play.google.com/store/apps/details?id=com.gunafood.gunafood) |
-| <img src="assets/dot-open.svg" alt="open" title="open"> | **[andon](https://github.com/gtm-k/andon)** | Agent-callable code measurement — every verdict carries its evidence, tamper-aware | [↗ the demo](https://gtm-k.github.io/andon/) |
 | <img src="assets/dot-open.svg" alt="open" title="open"> | **[intent-as-source](https://github.com/gtm-k/intent-as-source)** | Requirements compiled from human intent — a paper, a spec, and a two-week test | [↗ the record](https://gtm-k.github.io/intent-as-source/) |
 | <img src="assets/dot-open.svg" alt="open" title="open"> | **[product-skill](https://github.com/gtm-k/product-skill)** | 30+ PM frameworks as an AI skill — judgment, on tap | [↗ field guide](https://gtm-k.github.io/product-skill/) |
 | <img src="assets/dot-open.svg" alt="open" title="open"> | **[eigenorg](https://github.com/gtm-k/eigenorg)** | Stress-test an org before you build it — 500 Monte Carlo runs in-browser | [↗ simulator](https://gtm-k.github.io/eigenorg/) |
@@ -16,6 +15,7 @@
 | <img src="assets/dot-open.svg" alt="open" title="open"> | **[skill-forge](https://github.com/gtm-k/skill-forge)** | Local-first skill runtime for open LLMs | [↗ repo](https://github.com/gtm-k/skill-forge) |
 | <img src="assets/dot-wip.svg" alt="wip" title="wip"> | **[foldermcp](https://github.com/gtm-k/foldermcp)** | Folders → secure MCP tool servers | — |
 | <img src="assets/dot-wip.svg" alt="wip" title="wip"> | **[strategy-council](https://github.com/gtm-k/strategy-council)** | Multi-agent strategic reasoning — research | — |
+| <img src="assets/dot-deprecated.svg" alt="deprecated" title="deprecated"> | **[andon](https://gtm-k.github.io/andon/)** [<img src="assets/badge-deprecated.svg" alt="deprecated: why, and what to use instead" title="Why, and what to use instead">](https://gtm-k.github.io/#andon) | Code measurement an agent could call as it worked — each verdict carried its evidence | [↗ the demo](https://gtm-k.github.io/andon/) |
 
 > **Field notes** — just shipped [intent-as-source](https://github.com/gtm-k/intent-as-source); next, the new [foldermcp](https://github.com/gtm-k/foldermcp).
 
